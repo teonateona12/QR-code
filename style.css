@@ -1,0 +1,23 @@
+body {
+  background-color: #d5e1ef;
+}
+div {
+  background: white;
+  border-radius: 20px;
+  width: 320px;
+  padding: 16px;
+  margin: auto;
+}
+img {
+  border-radius: 10px;
+  max-width: 100%;
+}
+h1 {
+  font-size: 27px;
+  text-align: center;
+}
+p {
+  text-align: center;
+  color: #7d889e;
+  font-size: 20px;
+}
