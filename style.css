@@ -1,6 +1,9 @@
 body {
   background-color: #d5e1ef;
   font-family: "Outfit";
+  height: 100vh;
+  display: flex;
+  align-items: center;
 }
 div {
   background: white;
