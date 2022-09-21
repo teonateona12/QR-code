@@ -1,5 +1,6 @@
 body {
   background-color: #d5e1ef;
+  font-family: "Outfit";
 }
 div {
   background: white;
@@ -15,9 +16,10 @@ img {
 h1 {
   font-size: 27px;
   text-align: center;
+  color: #1f314f;
 }
 p {
   text-align: center;
   color: #7d889e;
-  font-size: 20px;
+  font-size: 19px;
 }
